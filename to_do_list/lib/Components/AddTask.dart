@@ -120,7 +120,7 @@ class _AddTaskState extends State<AddTask> {
                           color: Colors.white,
                         ),
                       ),
-                      Icon(Icons.keyboard_arrow_up),
+                      Icon(Icons.keyboard_arrow_up,color: Colors.white,),
 
                     ],
                   ),
